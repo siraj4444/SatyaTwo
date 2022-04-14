@@ -14,5 +14,7 @@ namespace EntityDbFirst
 
         public string Siraj { get;set; }
         public string MyFile { get;set; }
-    }
+        public string Siraj1 { get;set; }
+        public string Siraj2 { get;set; }
+     }
 }
