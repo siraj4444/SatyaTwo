@@ -13,5 +13,6 @@ namespace EntityDbFirst
         public virtual TblCategories Category { get; set; }
 
         public string Siraj { get;set; }
+        public string MyFile { get;set; }
     }
 }
