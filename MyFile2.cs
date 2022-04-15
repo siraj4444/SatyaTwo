@@ -9,5 +9,6 @@ namespace EntityDbFirst
         public string Name { get; set; }
         public decimal? Price { get; set; }
         public bool Flag1 {get;set;}
+        public string SatyaDB {get;set;}
        }
 }
