@@ -16,5 +16,6 @@ namespace EntityDbFirst
         public string MyFile { get;set; }
         public string Siraj1 { get;set; }
         public string Siraj2 { get;set; }
+        public bool   Flag {get;set;}
      }
 }
